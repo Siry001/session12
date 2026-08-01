@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\Session_12_Delegates_Generics_LINQ\Application\StudentPortalConsole_Complete\bin\Debug\net10.0\StudentPortalConsole.exe
+C:\Users\LENOVO\Documents\Session_12_Delegates_Generics_LINQ\Application\StudentPortalConsole_Complete\bin\Debug\net10.0\StudentPortalConsole.deps.json
+C:\Users\LENOVO\Documents\Session_12_Delegates_Generics_LINQ\Application\StudentPortalConsole_Complete\bin\Debug\net10.0\StudentPortalConsole.runtimeconfig.json
+C:\Users\LENOVO\Documents\Session_12_Delegates_Generics_LINQ\Application\StudentPortalConsole_Complete\bin\Debug\net10.0\StudentPortalConsole.dll
+C:\Users\LENOVO\Documents\Session_12_Delegates_Generics_LINQ\Application\StudentPortalConsole_Complete\bin\Debug\net10.0\StudentPortalConsole.pdb
+C:\Users\LENOVO\Documents\Session_12_Delegates_Generics_LINQ\Application\StudentPortalConsole_Complete\obj\Debug\net10.0\StudentPortalConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Session_12_Delegates_Generics_LINQ\Application\StudentPortalConsole_Complete\obj\Debug\net10.0\StudentPortalConsole.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Session_12_Delegates_Generics_LINQ\Application\StudentPortalConsole_Complete\obj\Debug\net10.0\StudentPortalConsole.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Session_12_Delegates_Generics_LINQ\Application\StudentPortalConsole_Complete\obj\Debug\net10.0\StudentPortalConsole.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Session_12_Delegates_Generics_LINQ\Application\StudentPortalConsole_Complete\obj\Debug\net10.0\StudentPortalConsole.dll
+C:\Users\LENOVO\Documents\Session_12_Delegates_Generics_LINQ\Application\StudentPortalConsole_Complete\obj\Debug\net10.0\refint\StudentPortalConsole.dll
+C:\Users\LENOVO\Documents\Session_12_Delegates_Generics_LINQ\Application\StudentPortalConsole_Complete\obj\Debug\net10.0\StudentPortalConsole.pdb
+C:\Users\LENOVO\Documents\Session_12_Delegates_Generics_LINQ\Application\StudentPortalConsole_Complete\obj\Debug\net10.0\StudentPortalConsole.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Session_12_Delegates_Generics_LINQ\Application\StudentPortalConsole_Complete\obj\Debug\net10.0\ref\StudentPortalConsole.dll
