@@ -211,21 +211,7 @@ namespace StudentPortalConsole
 
     //delegate bool StudentFilter(Student s); // assign Methods to it  
 
-    class Tracker<T>
-    {
-        private List<T> items = new();
-        public void Add(T item)
-        {
-            items.Add(item);
-            Console.WriteLine($"Tracker added item ! , now have {items.Count} item(s).");
-        }
-
-        public List<T> GetAll()
-        {
-            return items;
-        }
-
-    }
+    
 
     internal class Program
     {
@@ -609,22 +595,7 @@ namespace StudentPortalConsole
             // lab id = 23 so we can use it in the equation 2.0 + ((23 mod 5) * 0.4) = 3.2
 
             // c1 : we are make a list of students with gpa ( 3.2 ) and year of study ( 4 ) and return the list of students that match the condition you send
-            static List<Student> FilterStudents(
-            List<Student> students,
-            Func<Student, bool> condition)
-            {
-                List<Student> result = new List<Student>();
-
-                foreach (Student student in students)
-                {
-                    if (condition(student))
-                    {
-                        result.Add(student);
-                    }
-                }
-
-                return result;
-            }
+            // same function in main 
 
             // c2 : we use the 3.2 as a condition to filter the students and return the above of 3.2 
             // number-Gpa = 3.2
@@ -655,21 +626,10 @@ namespace StudentPortalConsole
 
             // Part D :
 
-            // my tracker capcity is 23 mode 3 +2 = 2
+            // My Tracker Capacity = (23 mod 3) + 2 = 4
 
             // 1 : create a tracker for students and add a student to it
-            static T? FindFirst<T>(List<T> items, Func<T, bool> condition) where T : class
-            {
-                foreach (T item in items)
-                {
-                    if (condition(item))
-                    {
-                        return item;
-                    }
-                }
-
-                return null;
-            }
+            // in the above
             // GPA Threshold = 2
             Student? firstStudent = FindFirst(students, s => s.Gpa >= 2);
 
